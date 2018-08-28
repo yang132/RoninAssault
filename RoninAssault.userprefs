@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\C#\World\GoalScript.cs">
+    <Files>
+      <File FileName="Assets\C#\PlayerScripts\FadeTimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\C#\PlayerScripts\HumanInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\C#\PlayerScripts\Projectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\C#\PlayerScripts\Hittable.cs" Line="1" Column="1" />
+      <File FileName="Assets\C#\PlayerScripts\EnemyAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\C#\PlayerScripts\HealthTracker.cs" Line="1" Column="1" />
+      <File FileName="Assets\C#\World\Obstacle.cs" Line="1" Column="1" />
+      <File FileName="Assets\C#\PlayerScripts\ArcherAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\C#\World\GoalScript.cs" Line="16" Column="99" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
